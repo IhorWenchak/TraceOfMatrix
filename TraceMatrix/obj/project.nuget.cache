@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4etcd5qrY8ThFhGyuQ9kXbNlJotqyW460l5wDZqCT5Ndrb+Uyb9R0ZeNkJ1xb2u36cvZSW36wuyX0IGSIGdbHg==",
+  "dgSpecHash": "ZRcJ1ehDNY1H/N089IF3Pwe0Fj6c4+Y1bfAtI43CzuOs1fnlKqj60wa/1k/0rz05pq/Y4zx+G67kTE8Jp7+Ejw==",
   "success": true,
-  "projectFilePath": "E:\\TraceMatrix\\TraceMatrix\\Matrix.csproj",
+  "projectFilePath": "E:\\TraceOfMatrix\\TraceMatrix\\Matrix.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

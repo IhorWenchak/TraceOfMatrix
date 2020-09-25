@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TraceMatrix\\TraceMatrix\\Matrix.csproj": {}
+    "E:\\TraceOfMatrix\\TraceMatrix\\Matrix.csproj": {}
   },
   "projects": {
-    "E:\\TraceMatrix\\TraceMatrix\\Matrix.csproj": {
+    "E:\\TraceOfMatrix\\TraceMatrix\\Matrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TraceMatrix\\TraceMatrix\\Matrix.csproj",
+        "projectUniqueName": "E:\\TraceOfMatrix\\TraceMatrix\\Matrix.csproj",
         "projectName": "Matrix",
-        "projectPath": "E:\\TraceMatrix\\TraceMatrix\\Matrix.csproj",
+        "projectPath": "E:\\TraceOfMatrix\\TraceMatrix\\Matrix.csproj",
         "packagesPath": "C:\\Users\\Iwenc\\.nuget\\packages\\",
-        "outputPath": "E:\\TraceMatrix\\TraceMatrix\\obj\\",
+        "outputPath": "E:\\TraceOfMatrix\\TraceMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",

@@ -9,8 +9,8 @@ namespace Matrix
 		private double[,] matrix ;
 		private readonly int n;
 		private readonly int m;
-		private double minValue = 0;
-		private double maxValue = 100.0001;
+		private readonly double minValue = 0;
+		private readonly double maxValue = 100.0001;
 		private double sum;
 
 

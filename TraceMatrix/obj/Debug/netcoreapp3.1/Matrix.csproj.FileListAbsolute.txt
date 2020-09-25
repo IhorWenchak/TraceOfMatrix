@@ -36,3 +36,16 @@ E:\TraceMatrix\TraceMatrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInpu
 E:\TraceMatrix\TraceMatrix\obj\Debug\netcoreapp3.1\Matrix.dll
 E:\TraceMatrix\TraceMatrix\obj\Debug\netcoreapp3.1\Matrix.pdb
 E:\TraceMatrix\TraceMatrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache
+E:\TraceOfMatrix\TraceMatrix\bin\Debug\netcoreapp3.1\Matrix.exe
+E:\TraceOfMatrix\TraceMatrix\bin\Debug\netcoreapp3.1\Matrix.deps.json
+E:\TraceOfMatrix\TraceMatrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.json
+E:\TraceOfMatrix\TraceMatrix\bin\Debug\netcoreapp3.1\Matrix.runtimeconfig.dev.json
+E:\TraceOfMatrix\TraceMatrix\bin\Debug\netcoreapp3.1\Matrix.dll
+E:\TraceOfMatrix\TraceMatrix\bin\Debug\netcoreapp3.1\Matrix.pdb
+E:\TraceOfMatrix\TraceMatrix\obj\Debug\netcoreapp3.1\Matrix.csprojAssemblyReference.cache
+E:\TraceOfMatrix\TraceMatrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfoInputs.cache
+E:\TraceOfMatrix\TraceMatrix\obj\Debug\netcoreapp3.1\Matrix.AssemblyInfo.cs
+E:\TraceOfMatrix\TraceMatrix\obj\Debug\netcoreapp3.1\Matrix.csproj.CoreCompileInputs.cache
+E:\TraceOfMatrix\TraceMatrix\obj\Debug\netcoreapp3.1\Matrix.dll
+E:\TraceOfMatrix\TraceMatrix\obj\Debug\netcoreapp3.1\Matrix.pdb
+E:\TraceOfMatrix\TraceMatrix\obj\Debug\netcoreapp3.1\Matrix.genruntimeconfig.cache

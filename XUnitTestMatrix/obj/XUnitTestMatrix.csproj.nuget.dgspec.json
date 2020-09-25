@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\TraceMatrix\\XUnitTestMatrix\\XUnitTestMatrix.csproj": {}
+    "E:\\TraceOfMatrix\\XUnitTestMatrix\\XUnitTestMatrix.csproj": {}
   },
   "projects": {
-    "E:\\TraceMatrix\\TraceMatrix\\Matrix.csproj": {
+    "E:\\TraceOfMatrix\\TraceMatrix\\Matrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TraceMatrix\\TraceMatrix\\Matrix.csproj",
+        "projectUniqueName": "E:\\TraceOfMatrix\\TraceMatrix\\Matrix.csproj",
         "projectName": "Matrix",
-        "projectPath": "E:\\TraceMatrix\\TraceMatrix\\Matrix.csproj",
+        "projectPath": "E:\\TraceOfMatrix\\TraceMatrix\\Matrix.csproj",
         "packagesPath": "C:\\Users\\Iwenc\\.nuget\\packages\\",
-        "outputPath": "E:\\TraceMatrix\\TraceMatrix\\obj\\",
+        "outputPath": "E:\\TraceOfMatrix\\TraceMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -61,14 +61,14 @@
         }
       }
     },
-    "E:\\TraceMatrix\\XUnitTestMatrix\\XUnitTestMatrix.csproj": {
+    "E:\\TraceOfMatrix\\XUnitTestMatrix\\XUnitTestMatrix.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\TraceMatrix\\XUnitTestMatrix\\XUnitTestMatrix.csproj",
+        "projectUniqueName": "E:\\TraceOfMatrix\\XUnitTestMatrix\\XUnitTestMatrix.csproj",
         "projectName": "XUnitTestMatrix",
-        "projectPath": "E:\\TraceMatrix\\XUnitTestMatrix\\XUnitTestMatrix.csproj",
+        "projectPath": "E:\\TraceOfMatrix\\XUnitTestMatrix\\XUnitTestMatrix.csproj",
         "packagesPath": "C:\\Users\\Iwenc\\.nuget\\packages\\",
-        "outputPath": "E:\\TraceMatrix\\XUnitTestMatrix\\obj\\",
+        "outputPath": "E:\\TraceOfMatrix\\XUnitTestMatrix\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -89,8 +89,8 @@
         "frameworks": {
           "netcoreapp3.1": {
             "projectReferences": {
-              "E:\\TraceMatrix\\TraceMatrix\\Matrix.csproj": {
-                "projectPath": "E:\\TraceMatrix\\TraceMatrix\\Matrix.csproj"
+              "E:\\TraceOfMatrix\\TraceMatrix\\Matrix.csproj": {
+                "projectPath": "E:\\TraceOfMatrix\\TraceMatrix\\Matrix.csproj"
               }
             }
           }

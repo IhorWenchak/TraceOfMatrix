@@ -3494,11 +3494,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\TraceMatrix\\XUnitTestMatrix\\XUnitTestMatrix.csproj",
+      "projectUniqueName": "E:\\TraceOfMatrix\\XUnitTestMatrix\\XUnitTestMatrix.csproj",
       "projectName": "XUnitTestMatrix",
-      "projectPath": "E:\\TraceMatrix\\XUnitTestMatrix\\XUnitTestMatrix.csproj",
+      "projectPath": "E:\\TraceOfMatrix\\XUnitTestMatrix\\XUnitTestMatrix.csproj",
       "packagesPath": "C:\\Users\\Iwenc\\.nuget\\packages\\",
-      "outputPath": "E:\\TraceMatrix\\XUnitTestMatrix\\obj\\",
+      "outputPath": "E:\\TraceOfMatrix\\XUnitTestMatrix\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -3519,8 +3519,8 @@
       "frameworks": {
         "netcoreapp3.1": {
           "projectReferences": {
-            "E:\\TraceMatrix\\TraceMatrix\\Matrix.csproj": {
-              "projectPath": "E:\\TraceMatrix\\TraceMatrix\\Matrix.csproj"
+            "E:\\TraceOfMatrix\\TraceMatrix\\Matrix.csproj": {
+              "projectPath": "E:\\TraceOfMatrix\\TraceMatrix\\Matrix.csproj"
             }
           }
         }
