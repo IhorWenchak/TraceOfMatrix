@@ -9,8 +9,6 @@ namespace Matrix
 		private double[,] matrix ;
 		private readonly int n;
 		private readonly int m;
-		private readonly double minValue = 0;
-		private readonly double maxValue = 100.0001;
 		private double sum;
 
 
@@ -26,9 +24,7 @@ namespace Matrix
 			{
 				for (int j = 0; j < m; j++)
 				{
-					this.matrix[i, j] = random.NextDouble() * (maxValue - minValue) + minValue;
-					if (this.matrix[i, j] > 100)
-						this.matrix[i, j] -= 100;
+					this.matrix[i, j] = random.Next(0,101);
 				}
 			}
 
@@ -43,13 +39,13 @@ namespace Matrix
 					if (i == j)
 					{
 						Console.ForegroundColor = ConsoleColor.Red;
-						Console.Write(" {0} ", matrix[i, j]);
+						Console.Write(" {0,3} ", matrix[i, j]);
 						Sum += matrix[i, j];
 					}
 					else
 					{
 						Console.ForegroundColor = ConsoleColor.White;
-						Console.Write(" {0} ", matrix[i, j]);
+						Console.Write(" {0,3} ", matrix[i, j]);
 					}
 				}
 				Console.WriteLine();
